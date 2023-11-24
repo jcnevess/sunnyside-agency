@@ -61,10 +61,14 @@ footer {
   padding-block: 4rem;
 }
 
+.container {
+  display: grid;
+}
+
 .heading {
   background-image: url(./images/mobile/image-header.jpg);
   background-size: cover;
-  height: 580px;
+  height: 620px;
 }
 
 #icatcher-design {
@@ -275,4 +279,8 @@ footer {
 
 .testimonials {
   padding-block: 4rem;
+}
+
+@media (min-width: 520px) {
+
 }
