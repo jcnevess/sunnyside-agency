@@ -1,6 +1,4 @@
-# Frontend Mentor - Sunnyside agency landing page solution
-
-This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). 
+# Sunnyside agency landing page solution
 
 It is a responsive landing page made with HTML, CSS and Javascript.
 
@@ -57,5 +55,4 @@ Desktop
 ## Author
 
 - Website - [Júlio Neves](https://jcnevess.github.io/)
-- Frontend Mentor - [@jcnevess](https://www.frontendmentor.io/profile/jcnevess)
 
